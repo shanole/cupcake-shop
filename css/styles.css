@@ -1,8 +1,15 @@
 img {
   width: 500px;
+  display: block;
+  margin-bottom: 50px;
 }
 
 .flashy {
   color: red;
   font-style: italic;
+}
+
+.best {
+  border: 20px solid gold;
+  background-color: lightpink;
 }
