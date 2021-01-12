@@ -21,3 +21,7 @@ img {
 .chocolate {
   color: brown;
 }
+
+.float {
+  float: right;
+}
