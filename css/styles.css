@@ -15,7 +15,11 @@ img {
 }
 
 .cupcakes {
+  border: 30px solid black;
+  padding: 15px;
+  width: 50%;
   background-color:lightskyblue;
+  box-sizing: border-box;
 }
 
 .chocolate {
